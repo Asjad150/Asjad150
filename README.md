@@ -1,128 +1,75 @@
-# Hi there! 👋 I'm Asjad Iftikhar
+<h1 align="center">Hi, I'm Asjad Iftikhar 👋</h1>
 
-<div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=600&lines=Full+Stack+IoT+%26+AI+Engineer;Building+Smart+Solutions;Connecting+Hardware+%26+Software)
+<p align="center">
+  <b>Backend Engineer · AI &amp; Computer Vision · IoT · Cloud &amp; DevOps</b><br/>
+  I build the backends of intelligent things, from the device to the dashboard.
+</p>
 
-</div>
-
-## 🚀 About Me
-
-I'm a passionate **Full Stack IoT & AI Engineer** who loves building intelligent systems that bridge the gap between hardware and software. I specialize in creating end-to-end solutions that combine IoT sensors, AI models, and scalable web applications.
-
-- 🔭 Currently working on intelligent IoT systems with AI integration
-- 🌱 Always learning about emerging technologies in IoT and AI
-- 💡 Passionate about creating solutions that make a real-world impact
-- 🎯 Goal: To build the next generation of smart, connected systems
-
-## 🛠️ Tech Stack
-
-### 🌐 **Backend & APIs**
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🤖 **AI & Machine Learning**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### 🌐 **IoT & Communication**
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![TCP/UDP](https://img.shields.io/badge/TCP%2FUDP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![RTSP](https://img.shields.io/badge/RTSP-FF6B6B?style=for-the-badge&logo=video&logoColor=white)
-
-### ☁️ **Cloud & DevOps**
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
-
-### 📊 **Analytics & Visualization**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-### 🛠️ **Tools & Platforms**
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-
-### 🔧 **Automation & Integration**
-![Microsoft Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![GoDaddy](https://img.shields.io/badge/GoDaddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=white)
-
-## 🎯 Featured Projects
-
-### 🏠 Smart Home IoT System
-- **Tech Stack:** FastAPI, MQTT, Redis, PostgreSQL, React
-- **Description:** Complete IoT ecosystem with real-time sensor monitoring and AI-powered automation
-- **Features:** Real-time dashboards, predictive analytics, mobile app integration
-
-### 🤖 AI-Powered Security System
-- **Tech Stack:** PyTorch, OpenCV, RTSP, WebSockets, Streamlit
-- **Description:** Computer vision system for real-time threat detection and alert management
-- **Features:** Face recognition, anomaly detection, automated reporting
-
-### 📊 Industrial IoT Analytics Platform
-- **Tech Stack:** Power BI, MS Fabric, Azure IoT Hub, Docker
-- **Description:** Enterprise-grade analytics platform for manufacturing data
-- **Features:** Real-time monitoring, predictive maintenance, custom dashboards
-
-## 📈 GitHub Stats
-
-<div align="center">
-  
-![Asjad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asjad150&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asjad150&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asjad150&theme=radical&hide_border=true)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=Asjad150&theme=radical&row=2&column=3&margin-w=15&margin-h=15)
-
-</div>
-
-## 📊 Activity Graph
-
-[![Asjad's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Asjad150&theme=radical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🌟 What I'm Working On
-
-- 🔥 Building next-gen IoT solutions with edge AI
-- 🚀 Exploring LLM integration in IoT systems
-- 🎯 Contributing to open-source IoT projects
-- 📚 Writing technical blogs about IoT and AI
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asjad-iftikhar-ai1/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asjadiftikhar150@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-
-</div>
+<p align="center">
+  <a href="https://asjad150.github.io"><img src="https://img.shields.io/badge/Portfolio-asjad150.github.io-8b5cf6?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/asjad-iftikhar-ai1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00Ljk4IDMuNWEyLjUgMi41IDAgMSAxIDAgNSAyLjUgMi41IDAgMCAxIDAtNXpNMyA5aDR2MTJIM3pNOSA5aDMuOHYxLjdoLjFjLjUtMSAxLjgtMiAzLjctMiA0IDAgNC43IDIuNiA0LjcgNlYyMWgtNHYtNS42YzAtMS4zIDAtMy0xLjktM3MtMi4xIDEuNC0yLjEgMi45VjIxSDl6Ii8%2BPC9zdmc%2B&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.fiverr.com/asjadiftikhar75"><img src="https://img.shields.io/badge/Fiverr-Hire%20me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/></a>
+  <a href="mailto:asjadiftikhar150@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
-<div align="center">
-  
-### 💡 "The best way to predict the future is to invent it" - Alan Kay
+### 🧑‍💻 About me
 
-![Profile Views](https://komarev.com/ghpvc/?username=Asjad150&color=blueviolet&style=for-the-badge)
+- 🏢 **Associate II, Dev (IoT, AI & DevOps)** at [Devomech Solutions GmbH](https://devomech.com/): I run cloud deployments, manage Kubernetes clusters, build CI/CD for the dev team and integrate IoT hardware with custom FastAPI servers.
+- 🤖 Previously **Backend IoT & AI Developer** at HyperNym UK, where I shipped computer-vision services to production on Azure: face-recognition attendance, plus people, gender and parking detection.
+- 🎓 **BS Computer Science**, NUTECH Islamabad. My thesis was a text-to-video generator (PyTorch, UNET, CLIP).
+- 🏅 **Microsoft Certified: Azure AI Engineer Associate**, plus 35+ Coursera certificates.
+- 📍 Islamabad, Pakistan, and open to remote and on-site roles as well as freelance projects.
 
-</div>
+### 🛠️ What I build
+
+| | |
+|---|---|
+| ⚙️ **Backend APIs** | FastAPI (Uvicorn), Django / DRF, Node.js, PostgreSQL, Redis, WebSockets |
+| 📱 **Mobile apps** | React Native + Expo for Android & iOS, shipped with EAS |
+| 🌐 **Web portals** | React + Node.js, and Next.js monoliths (UI + API in one deployable) |
+| ☁️ **Cloud & DevOps** | Azure, AWS, Docker, Kubernetes, GitHub Actions, GHCR, Docker Hub |
+| 👁️ **AI & computer vision** | PyTorch, OpenCV, custom detection models on RTSP streams |
+| 📡 **IoT** | Azure IoT Hub, MQTT, TCP/UDP, device → cloud → dashboard pipelines |
+| 📊 **Data** | Power BI, Microsoft Fabric, Grafana, Pandas |
+
+### 🧰 Tech stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+<br/>
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik05LjUgM2g1LjJMOC42IDIwLjJhMSAxIDAgMCAxLS45LjdIMi45YS43LjcgMCAwIDEtLjYtMXpNMTUuOSAxMy42SDguNGw0LjkgNS44Yy4yLjIuNS40LjguNGg2Ljd6Ii8%2BPC9zdmc%2B&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik03IDE4aDEwLjVhNC41IDQuNSAwIDAgMCAuNy04LjlBNi41IDYuNSAwIDAgMCA1LjkgOC42IDQuOCA0LjggMCAwIDAgNyAxOHoiLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBkPSJNNSAyMWM0LjUgMiA5LjUgMiAxNCAwIi8%2BPC9zdmc%2B&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgZmlsbD0iYmxhY2siIHg9IjMiIHk9IjEyIiB3aWR0aD0iNCIgaGVpZ2h0PSI5IiByeD0iMSIvPjxyZWN0IGZpbGw9ImJsYWNrIiB4PSIxMCIgeT0iNyIgd2lkdGg9IjQiIGhlaWdodD0iMTQiIHJ4PSIxIi8%2BPHJlY3QgZmlsbD0iYmxhY2siIHg9IjE3IiB5PSIzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxOCIgcng9IjEiLz48L3N2Zz4%3D&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+### 🚀 Featured work
+
+- **Hajji Assist:** a pilgrim companion platform with a React Native (Expo) app for iOS & Android and a Next.js 14 admin portal that also serves the mobile API. Schedules, travel & transfers, prayer times, live staff chat and emergency alerts. PostgreSQL + Prisma, Docker Compose, Nginx. *(private client project)*
+- **AI Attendance & Vision Suite:** face-recognition attendance plus human, gender and parking detection, containerised on production Azure VMs.
+- **IoT telemetry → Power BI:** hardware → Azure IoT Hub → FastAPI event listener → PostgreSQL → live dashboards.
+- **Text-to-Video Generator:** my BS thesis, a generative model built with PyTorch, CUDA, UNET and CLIP.
+- **Fire & smoke / seatbelt detection:** custom vision models for RTSP cameras and driver-side dashcams.
+
+👉 More on the **[3D portfolio](https://asjad150.github.io)**. It's built with Three.js and custom GLSL shaders, and [the source is here](https://github.com/Asjad150/Asjad150.github.io).
+
+---
+
+<p align="center"><i>Open to backend, AI/IoT and DevOps roles and freelance projects. The fastest way to reach me is <a href="mailto:asjadiftikhar150@gmail.com">email</a> or <a href="https://www.linkedin.com/in/asjad-iftikhar-ai1/">LinkedIn</a>.</i></p>
