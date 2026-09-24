@@ -24,7 +24,7 @@
 
 ### 🛠️ What I build
 
-| | |
+| Area | Stack |
 |---|---|
 | ⚙️ **Backend APIs** | FastAPI (Uvicorn), Django / DRF, Node.js, PostgreSQL, Redis, WebSockets |
 | 📱 **Mobile apps** | React Native + Expo for Android & iOS, shipped with EAS |
